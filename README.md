@@ -116,6 +116,10 @@ For each detection, the notebook displays:
 4. Confidence score
 5. Trustworthiness level
 
+## Source of the code:
+
+1. Chatgpt:
+         - To enhance the standard Faster R-CNN model.
 
 ## Example Output:
 
