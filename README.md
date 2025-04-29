@@ -127,7 +127,7 @@ The processed image will display the following annotated elements:
 
 * Bounding Boxes:
 
-    - Solid green rectangles around high-confidence detections (score > 0.75)
+    - Solid rectangles around high-confidence detections (score > 0.75)
     - Dashed yellow rectangles around medium-confidence detections (0.5 ≤ score ≤ 0.75)
     - Box thickness proportional to detection confidence.
     
