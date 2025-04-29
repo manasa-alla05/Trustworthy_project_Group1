@@ -138,7 +138,7 @@ This project was made possible by the following open-source tools and datasets:
 
 1. Core Technologies:
 
-    - Faster R-CNN architecture for high-quality object detection
+    - Mask R-CNN architecture for high-quality object detection
     - PyTorch and torchvision for deep learning framework and pre-trained models
     - OpenCV for image processing and visualization capabilities
 
